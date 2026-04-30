@@ -1,6 +1,6 @@
 # 🏢 Sistema de Gestión Inmobiliaria
 
-![Preview del proyecto](assets/imagen.png)
+![alt text](<Captura de pantalla 2026-02-28 170659.png>)
 
 ---
 
